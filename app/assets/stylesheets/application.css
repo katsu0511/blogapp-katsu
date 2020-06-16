@@ -242,7 +242,7 @@ textarea {
   right: 0;
   position: absolute;
   background-color: white;
-  min-width: 100px;
+  min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
 }
@@ -256,10 +256,12 @@ textarea {
   text-decoration: none;
   display: block;
   color: #616161;
+  transition: all 0.3s;
 }
 
 .dropdown-content a:hover {
-  background-color: white;
+  background-color: #616161;
+  color: white;
 }
 
 .dropdown:hover .dropdown-content {

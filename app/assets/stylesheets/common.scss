@@ -29,10 +29,12 @@
   text-decoration: none;
   display: block;
   color: $text-base-color;
+  transition: all 0.3s;
 }
 
 .dropdown-content a:hover {
-  background-color: white;
+  background-color: $text-base-color;
+  color: white;
 }
 
 .dropdown:hover .dropdown-content {
