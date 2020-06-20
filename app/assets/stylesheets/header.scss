@@ -36,6 +36,11 @@ $back-icon-size: 16px;
     color: white;
     line-height: $avatar-size;
     font-size: $font-lg;
+    transition: all 0.3s;
+
+    &:hover {
+      color: #000;
+    }
   }
 
   &_avatar {
