@@ -33,13 +33,20 @@ $back-icon-size: 16px;
   }
 
   &_pageTitle {
-    color: white;
     line-height: $avatar-size;
     font-size: $font-lg;
-    transition: all 0.3s;
 
-    &:hover {
-      color: #000;
+    span {
+      color: white;
+    }
+
+    a {
+      color: white;
+      transition: all 0.3s;
+
+      &:hover {
+        color: rgb(28, 151, 189);
+      }
     }
   }
 
