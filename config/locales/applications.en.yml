@@ -1,0 +1,6 @@
+en:
+  applications:
+    profile: 'Profile'
+    favorite: 'Favorite'
+    login: 'Log in'
+    logout: 'Log out'
