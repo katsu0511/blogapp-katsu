@@ -1,0 +1,13 @@
+en:
+  articles:
+    comment_list: 'Comment list'
+    add_comment: 'Add comment'
+    edit: 'Edit'
+    delete: 'Delete'
+    confirm: 'Are you sure to delete it?'
+    eyecatch: 'Eyecatch'
+    title: 'Title'
+    content: 'Content'
+    save: 'Save'
+    new_articles_list: 'New articles list'
+    timeline: 'Timeline'

@@ -1,0 +1,6 @@
+ja:
+  applications:
+    profile: 'プロフィール'
+    favorite: 'お気に入り'
+    login: 'ログイン'
+    logout: 'ログアウト'

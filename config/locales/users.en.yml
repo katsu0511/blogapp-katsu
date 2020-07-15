@@ -1,0 +1,11 @@
+en:
+  users:
+    age: 'age: ?'
+    favorite: 'Favorite articles'
+    avatar: 'Avatar'
+    handle_name: 'Nickname'
+    introduction: 'Introduction'
+    gender: 'Gender'
+    birthday: 'Birthday'
+    subscribe: 'receive notifications'
+    save: 'Save'

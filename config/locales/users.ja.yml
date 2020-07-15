@@ -1,0 +1,11 @@
+ja:
+  users:
+    age: '?歳'
+    favorite: 'お気に入りの記事'
+    avatar: 'アバター'
+    handle_name: 'ハンドルネーム'
+    introduction: '自己紹介'
+    gender: '性別'
+    birthday: '生年月日'
+    subscribe: '通知を受け取る'
+    save: '保存'
