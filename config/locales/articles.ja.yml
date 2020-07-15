@@ -9,3 +9,5 @@ ja:
     title: 'タイトル'
     content: '内容'
     save: '保存'
+    new_articles_list: '新着記事一覧'
+    timeline: 'タイムライン'

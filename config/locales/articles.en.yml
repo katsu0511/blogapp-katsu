@@ -9,3 +9,5 @@ en:
     title: 'Title'
     content: 'Content'
     save: 'Save'
+    new_articles_list: 'New articles list'
+    timeline: 'Timeline'
