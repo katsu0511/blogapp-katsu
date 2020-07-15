@@ -1,0 +1,5 @@
+ja:
+  mailers:
+    notification: '運営者からのお知らせ'
+    followed_by: '以下のユーザにフォローされました。'
+    see_profile: 'プロフィールを確認する'

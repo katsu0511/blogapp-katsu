@@ -1,0 +1,5 @@
+en:
+  mailers:
+    notification: 'Notification from owner'
+    followed_by: 'Followed by the user below'
+    see_profile: 'See profile'
