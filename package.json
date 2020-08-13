@@ -12,6 +12,7 @@
     "lodash": "^4.17.19",
     "lodash.update": "^4.10.2",
     "rails-ujs": "^5.2.4-3",
+    "serialize-javascript": "^4.0.0",
     "trix": "^1.2.0",
     "turbolinks": "^5.2.0"
   },
